@@ -1,18 +1,15 @@
 # Aria2-docker.sh
 
---------
 
 ## 系统要求
 
 CentOS 6+ / Debian 6+ / Ubuntu 14.04+
 
---------
 
 ## 架构支持
 
 x86_64 / i386 / ARM64 / ARM32v7 / ARM32v6
 
---------
 
 ## 使用说明
 
@@ -23,7 +20,7 @@ apt install wget curl ca-certificates
 
 * 下载脚本
 ```
-wget -N git.io/aria2.sh && chmod +x aria2-docker.sh
+wget -N git.io/aria2-docker.sh && chmod +x aria2-docker.sh
 ```
 
 * 运行脚本
