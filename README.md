@@ -20,7 +20,7 @@ apt install wget curl ca-certificates
 
 * 下载脚本
 ```
-wget https://raw.githubusercontent.com/0x01x0/aria2-docker.sh/main/aria2-docker.sh && chmod +x aria2-docker.sh
+wget https://git.io/JTkka && chmod +x aria2-docker.sh
 ```
 
 * 运行脚本
