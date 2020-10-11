@@ -18,14 +18,9 @@ x86_64 / i386 / ARM64 / ARM32v7 / ARM32v6
 apt install wget curl ca-certificates
 ```
 
-* 下载脚本
+* 运行脚本(以管理员权限运行)
 ```
-wget https://git.io/JTkka && chmod +x aria2-docker.sh
-```
-
-* 运行脚本
-```
-./aria2-docker.sh
+bash <(wget -qO- https://git.io/JTkka)
 ```
 
 * 选择你要执行的选项
